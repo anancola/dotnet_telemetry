@@ -6,7 +6,7 @@ Application Telemetry implementation for .NET with Azure Monitor Exporter client
 1.	See AppLogging/README.md for more information about the library
 2.	See Example/Example.csproj for demo
 3.	Latest releases (See AppLogging/CHANGELOG.md)
-4.  Package release to [Azure Artifacts](https://microsoft.visualstudio.com/DefaultCollection/AED/_artifacts/feed/AzurePerceptAgent)
+4.  Package release to Azure Artifacts
 
 # Build and Test
 - Run Example
